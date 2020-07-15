@@ -1,0 +1,9 @@
+#mapbox {
+    width: 100%;
+    height: 740px;
+    margin: 0px;
+}
+
+.card-title {
+    display: inline-block !important;
+}
